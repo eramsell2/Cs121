@@ -1,0 +1,4 @@
+Courses Credits Score
+cs12 1 45
+dee 3 23
+ff 4 34

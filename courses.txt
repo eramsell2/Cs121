@@ -1,0 +1,4 @@
+Courses Credits Score
+CS121 4 100
+MUHI100 2 100
+CS203 3 95
